@@ -1,2 +1,1 @@
-# get-thala
-website
+# GetTala_website
